@@ -1,5 +1,23 @@
 {
   "dependencies": {
-    "json": "^11.0.0"
-  }
+    "json-server": "^0.17.0"
+  },
+  "name": "farm-shop-inventory",
+  "description": "API for an independent organic farm shop - (fresh organic food, gardening utensils, and seeds )",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimJ6/farm-shop-inventory.git"
+  },
+  "author": "Jim O'Cianain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimJ6/farm-shop-inventory/issues"
+  },
+  "homepage": "https://github.com/JimJ6/farm-shop-inventory#readme"
 }

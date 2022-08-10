@@ -21,26 +21,62 @@
               "quantity": "300g",
               "image": "images/artichokes.jpg",
               "desc": "This Artichoke is a traditional reliable green heritage variety. Delicious cold or hot, it brings a fresh taste to any meal. Alternatively, it is a lovely flower that attracts bees in abundance."
+            },
+            {
+              "id": "v3",
+              "item": "Organic Carrots",
+              "category": "vegetables",
+              "price": "€3.50",
+              "quantity": "750g",
+              "image": "images/carrots.jpg",
+              "desc": "The health benefits of carrots include reduced cholesterol, lower risk of heart attacks, improved vision, and reduced signs of premature aging. Furthermore, carrots have the ability to improve the skin, boost the immune system, optimize digestion, and protect cardiovascular health."
+            },
+            {
+              "id": "v4",
+              "item": "Organic Potatoes",
+              "category": "vegetables",
+              "price": "€5.50",
+              "quantity": "1kg",
+              "image": "images/potatoes.jpg",
+              "desc": "Potatoes are a good source of fiber, which can help you lose weight by keeping you full longer. Fiber can help prevent heart disease by keeping cholesterol and blood sugar levels in check. Potatoes are also full of antioxidants."
             }
           ]
         },
         {
-          "fruit": [
+          "fruitAndBerries": [
             {
               "id": "f1",
-              "item": "Organic apple",
+              "item": "Organic Apple",
               "category": "fruit",
               "price": "€3.50",
               "quantity": "1kg",
               "image": "images/apple.jpg",
               "desc": "Our tasty organic apples are great any time of the day. Did you know that apples are part of the rose family like pears and plums and that there are over 8000 varieties. Of course we only select the tastiest organic Apples."
+            },
+            {
+              "id": "f2",
+              "item": "Organic Blueberries",
+              "category": "fruit",
+              "price": "€3.50",
+              "quantity": "125g",
+              "image": "images/blueberries.jpg",
+              "desc": "Fresh blueberries are a popular summer treat. They have a sweet flavor, and they are succulent and nutritious."
+            },
+            {
+              "id": "f3",
+              "item": "Organic Blackberries",
+              "category": "fruit",
+              "price": "€3.50",
+              "quantity": "125g",
+              "image": "images/blackberries.jpg",
+              "desc": "Although they contain many nutrients, blackberries, are bursting with phytochemicals (plant nutrients) which may have the potential to reduce the risk of developing diseases including cancers and heart disease."
             }
           ]
         }
       ]
     },
     {
-      "hardware": [
+      "growYourOwn": [
         {
           "tools": [
             {

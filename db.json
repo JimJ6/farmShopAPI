@@ -13,7 +13,15 @@
               "image": "images/broccoli.jpg",
               "desc": "Our organic raw broccoli contains almost 90% water, 7% carbs, 3% protein, and almost no fat. Broccoli is very low in calories, providing only 31 calories per cup (91 grams)."
             },
-            {}
+            {
+              "id": "v2",
+              "item": "Organic Artichoke",
+              "category": "vegetables",
+              "price": "€3.50",
+              "quantity": "300g",
+              "image": "images/artichokes.jpg",
+              "desc": "This Artichoke is a traditional reliable green heritage variety. Delicious cold or hot, it brings a fresh taste to any meal. Alternatively, it is a lovely flower that attracts bees in abundance."
+            }
           ]
         },
         {
@@ -58,28 +66,24 @@
       ]
     },
     {
-      "seeds-and-soil": [
+      "seeds": [
         {
-          "seeds": [
-            {
-              "id": "s1",
-              "item": "Beetroot seeds",
-              "category": "Seeds",
-              "price": "€2.99",
-              "quantity": "250 seeds",
-              "image": "images/beetroot.jpeg",
-              "desc": "Beetroot has long been a popular choice for its reliable crops of attractive, flavoursome and nutritious roots. Beetroot provides a vibrant splash of colour to any dish, not to mention great flavour, texture and excellent health benefits. Enjoy hot, cold or pickled! "
-            },
-            {
-              "id": "s2",
-              "item": "Brussel sprout seeds",
-              "category": "Seeds",
-              "price": "€2.80",
-              "quantity": "50 seeds",
-              "image": "images/brussels-sprout-seeds.jpeg",
-              "desc": "Groninger is an old variety of Brussel sprout, which has deveoped along with the environment for a very long time. Brussels Sprouts are ready to harvest in Winter, when not much else is, and obviously they go great with Christmas dinner!"
-            }
-          ]
+          "id": "s1",
+          "item": "Beetroot seeds",
+          "category": "Seeds",
+          "price": "€2.99",
+          "quantity": "250 seeds",
+          "image": "images/beetroot.jpeg",
+          "desc": "Beetroot has long been a popular choice for its reliable crops of attractive, flavoursome and nutritious roots. Beetroot provides a vibrant splash of colour to any dish, not to mention great flavour, texture and excellent health benefits. Enjoy hot, cold or pickled! "
+        },
+        {
+          "id": "s2",
+          "item": "Brussel sprout seeds",
+          "category": "Seeds",
+          "price": "€2.80",
+          "quantity": "50 seeds",
+          "image": "images/brussels-sprout-seeds.jpeg",
+          "desc": "Groninger is an old variety of Brussel sprout, which has deveoped along with the environment for a very long time. Brussels Sprouts are ready to harvest in Winter, when not much else is, and obviously they go great with Christmas dinner!"
         }
       ]
     }

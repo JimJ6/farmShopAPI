@@ -39,6 +39,78 @@
               "quantity": "1kg",
               "image": "images/potatoes.jpg",
               "desc": "Potatoes are a good source of fiber, which can help you lose weight by keeping you full longer. Fiber can help prevent heart disease by keeping cholesterol and blood sugar levels in check. Potatoes are also full of antioxidants."
+            },
+            {
+              "id": "v5",
+              "item": "Organic Spinach",
+              "category": "vegetables",
+              "price": "€3.25",
+              "quantity": "300g",
+              "image": "images/spinach.jpg",
+              "desc": "Spinach is a high-fiber food that can add volume, color, and texture to your favorite recipes. Whether eaten cooked or raw, this leafy green vegetable offers a nutritious punch."
+            },
+            {
+              "id": "v6",
+              "item": "Organic Sprouts",
+              "category": "vegetables",
+              "price": "€2.50",
+              "quantity": "300g",
+              "image": "images/sprouts.jpeg",
+              "desc": "Brussels sprouts are nutrient powerhouses, providing a range of vitamins, minerals, antioxidants, and a little bonus plant protein."
+            },
+            {
+              "id": "v7",
+              "item": "Organic Cauliflower",
+              "category": "vegetables",
+              "price": "€3.00",
+              "quantity": "400g",
+              "image": "images/cauliflower.jpeg",
+              "desc": "Cauliflower is an excellent source of vitamins and minerals, containing some of almost every vitamin and mineral that you need, including a high amount of fiber."
+            },
+            {
+              "id": "v8",
+              "item": "Organic Courgettes",
+              "category": "vegetables",
+              "price": "€3.00",
+              "quantity": "400g",
+              "image": "images/courgette.jpeg",
+              "desc": "Courgette contains a variety of vitamins, minerals, and beneficial plant compounds. Cooked zucchini is particularly high in vitamin A. It also boasts several antioxidants that may provide various health benefits"
+            },
+            {
+              "id": "v9",
+              "item": "Organic Garlic",
+              "category": "vegetables",
+              "price": "€2.50",
+              "quantity": "150g",
+              "image": "images/garlic.jpg",
+              "desc": "Ancient Greek physician Hippocrates, often called the father of Western medicine prescribed garlic to treat a variety of medical conditions — and modern science has confirmed many of these beneficial health effects. "
+            },
+            {
+              "id": "v10",
+              "item": "Organic Romaine Lettuce",
+              "category": "vegetables",
+              "price": "€2.75",
+              "quantity": "300g",
+              "image": "images/lettuce.jpeg",
+              "desc": "Romaine lettuce contains 82% of the daily value of vitamin A. It also contains small amounts of vitamin C, iron, and calcium. Generally, lettuce is safe for most people to eat. It isn't a common allergen."
+            },
+            {
+              "id": "v11",
+              "item": "Organic Cabbage",
+              "category": "vegetables",
+              "price": "€2.75",
+              "quantity": "900g",
+              "image": "images/cabbage.jpeg",
+              "desc": "Cabbage contains small amounts of other micronutrients, including vitamin A, iron and riboflavin."
+            },
+            {
+              "id": "v12",
+              "item": "Organic Green Beans",
+              "category": "vegetables",
+              "price": "€3.00",
+              "quantity": "400g",
+              "image": "images/beans.jpg",
+              "desc": "Green beans, string beans, or snap beans are a rich source of vitamins A, C, and K, and of folic acid and fiber."
             }
           ]
         },
@@ -56,7 +128,7 @@
             {
               "id": "f2",
               "item": "Organic Blueberries",
-              "category": "fruit",
+              "category": "berries",
               "price": "€3.50",
               "quantity": "125g",
               "image": "images/blueberries.jpg",
@@ -65,11 +137,47 @@
             {
               "id": "f3",
               "item": "Organic Blackberries",
-              "category": "fruit",
+              "category": "berries",
               "price": "€3.50",
               "quantity": "125g",
               "image": "images/blackberries.jpg",
               "desc": "Although they contain many nutrients, blackberries, are bursting with phytochemicals (plant nutrients) which may have the potential to reduce the risk of developing diseases including cancers and heart disease."
+            },
+            {
+              "id": "f4",
+              "item": "Organic Strawberries",
+              "category": "fruit",
+              "price": "€3.50",
+              "quantity": "125g",
+              "image": "images/strawberries.jpg",
+              "desc": "Strawberries are thought to be berries, but this is not botanically true, and they are an accessory fruit. They have an excellent nutrition profile and contain large amounts of vitamin C."
+            },
+            {
+              "id": "f5",
+              "item": "Organic Blackcurrants",
+              "category": "fruit",
+              "price": "€3.50",
+              "quantity": "125g",
+              "image": "images/blackberries.jpg",
+              "desc": "Black currants have a tart and somewhat astringent taste, which is influenced by both their significant ascorbic acid (vitamin C) and polyphenol (such as tannins) content."
+            },
+            {
+              "id": "f6",
+              "item": "Organic Gooseberries",
+              "category": "fruit",
+              "price": "€4.50",
+              "quantity": "125g",
+              "image": "images/gooseberries.jpg",
+              "desc": "Gooseberries are low in calories, fat and cholesterol-free, and a good source of essential nutrients including vitamin C, vitamin A, manganese and dietary fiber. "
+            },
+            {
+              "id": "f7",
+              "item": "Organic Raspberries",
+              "category": "berries",
+              "price": "€3.50",
+              "quantity": "125g",
+              "image": "images/raspberries.jpg",
+              "desc": "Raspberries pack a lot of nutrition and antioxidants into a small space. They contain potassium, omega-3 fatty acids, fibre, and the mineral manganese."
             }
           ]
         }
@@ -96,6 +204,33 @@
               "quantity": "N/A",
               "image": "images/long-handled-garden-fork-a.jpeg",
               "desc": "This digging fork comes with a black Painted Steel Head, consisting of 4 Tines, solid timber Handle and comfort Plastic D Grip ideal for Light digging around the garden."
+            },
+            {
+              "id": "t3",
+              "item": "Hand Trowel",
+              "category": "hardware",
+              "price": "€10.00",
+              "quantity": "N/A",
+              "image": "images/trowel.jpeg",
+              "desc": "Small, lightweight, wooden handled gardening trowel"
+            },
+            {
+              "id": "t4",
+              "item": "Gardening gloves",
+              "category": "hardware",
+              "price": "€6.00",
+              "quantity": "N/A",
+              "image": "images/gloves.png",
+              "desc": "A single pair of durable and breatheable gardening gloves in a variety of colours"
+            },
+            {
+              "id": "t5",
+              "item": "Shovel",
+              "category": "hardware",
+              "price": "€25.00",
+              "quantity": "N/A",
+              "image": "images/shovel.jpeg",
+              "desc": "Garden shovel."
             }
           ]
         }
@@ -120,6 +255,82 @@
           "quantity": "50 seeds",
           "image": "images/brussels-sprout-seeds.jpeg",
           "desc": "Groninger is an old variety of Brussel sprout, which has deveoped along with the environment for a very long time. Brussels Sprouts are ready to harvest in Winter, when not much else is, and obviously they go great with Christmas dinner!"
+        },
+        {
+          "id": "s3",
+          "item": "Brocolli Seeds",
+          "category": "Seeds",
+          "price": "€2.95",
+          "quantity": "50 seeds",
+          "image": "images/broccoli-seeds.jpeg",
+          "desc": "Produces large blue/green heads which are slow to run to seed."
+        },
+        {
+          "id": "s4",
+          "item": "Broad Bean Seeds",
+          "category": "Seeds",
+          "price": "€2.95",
+          "quantity": "40 seeds",
+          "image": "images/broad-bean-seeds.jpeg",
+          "desc": "Ideal for Over Wintering. Good Cold Tolerance!"
+        },
+        {
+          "id": "s5",
+          "item": "Carrot Seeds",
+          "category": "Seeds",
+          "price": "€2.95",
+          "quantity": "40 seeds",
+          "image": "images/carrot-seeds.jpeg",
+          "desc": "Strong growing and very flavoursome maincrop carrot which stores well. Strong, sweet aromatic taste."
+        },
+        {
+          "id": "s6",
+          "item": "Cauliflower Seeds",
+          "category": "Seeds",
+          "price": "€2.95",
+          "quantity": "40 seeds",
+          "image": "images/cauliflower-seeds.jpeg",
+          "desc": "All year around grower"
+        },
+        {
+          "id": "s7",
+          "item": "Brocolli sprouting Seeds",
+          "category": "Seeds",
+          "price": "€8.95",
+          "quantity": "250g",
+          "image": "images/broccoli-sprouting-seeds.jpeg",
+          "desc": "Sprouting organic broccoli seeds at home is a really easy and quick way to grow your own nutritionally packed food right on your window sill."
+        }
+      ]
+    },
+    {
+      "ferments": [
+        {
+          "id": "f1",
+          "item": "Saurkraut",
+          "category": "ferments",
+          "price": "€6.00",
+          "quantity": "400g",
+          "image": "images/saurkraut.jpg",
+          "desc": "Non-pasteurised saurkraut. A traditional sauerkraut made with organic cabbage and organic sea salt. Salty and sour this sauerkraut is a burst of organic probiotic goodness."
+        },
+        {
+          "id": "f2",
+          "item": "Kimchi",
+          "category": "ferments",
+          "price": "€5.00kimchi",
+          "quantity": "300g",
+          "image": "images/kimchi.jpeg",
+          "desc": "Raw Fermented Kimchi, inspired by Korea. Full of probiotics and good bacteria."
+        },
+        {
+          "id": "f3",
+          "item": "Kefir",
+          "category": "ferments",
+          "price": "€6.00",
+          "quantity": "750ml",
+          "image": "images/kefir.jpeg",
+          "desc": "Kefir is a yoghurt style drink, exceptionally rich in nutrients and probiotics, aiding digestion and providing excellent gut health."
         }
       ]
     }

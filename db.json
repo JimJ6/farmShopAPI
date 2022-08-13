@@ -20,7 +20,7 @@
               "price": "€3.50",
               "quantity": "300g",
               "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/artichokes.jpg?raw=true",
-              "desc": "This Artichoke is a traditional reliable green heritage variety. Delicious cold or hot, it brings a fresh taste to any meal. Alternatively, it is a lovely flower that attracts bees in abundance."
+              "desc": "This Artichoke is a traditional reliable green heritage variety. Delicious cold or hot, it brings a fresh taste to any meal. Alternatively, it is a lovely flower that attracts bees in abundance.  Organic."
             },
             {
               "id": "v3",
@@ -29,7 +29,7 @@
               "price": "€3.50",
               "quantity": "750g",
               "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/carrots.jpg?raw=true",
-              "desc": "The health benefits of carrots include reduced cholesterol, lower risk of heart attacks, improved vision, and reduced signs of premature aging. Furthermore, carrots have the ability to improve the skin, boost the immune system, optimize digestion, and protect cardiovascular health."
+              "desc": "The health benefits of carrots include reduced cholesterol, lower risk of heart attacks, improved vision, and reduced signs of premature aging. Furthermore, carrots have the ability to improve the skin, boost the immune system, optimize digestion, and protect cardiovascular health.  Organic."
             },
             {
               "id": "v4",
@@ -38,7 +38,7 @@
               "price": "€5.50",
               "quantity": "1kg",
               "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/potatoes.jpg?raw=true",
-              "desc": "Potatoes are a good source of fiber, which can help you lose weight by keeping you full longer. Fiber can help prevent heart disease by keeping cholesterol and blood sugar levels in check. Potatoes are also full of antioxidants."
+              "desc": "Potatoes are a good source of fiber, which can help you lose weight by keeping you full longer. Fiber can help prevent heart disease by keeping cholesterol and blood sugar levels in check. Potatoes are also full of antioxidants.  Organic."
             },
             {
               "id": "v5",
@@ -47,7 +47,7 @@
               "price": "€3.25",
               "quantity": "300g",
               "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/spinach.jpg?raw=true",
-              "desc": "Spinach is a high-fiber food that can add volume, color, and texture to your favorite recipes. Whether eaten cooked or raw, this leafy green vegetable offers a nutritious punch."
+              "desc": "Spinach is a high-fiber food that can add volume, color, and texture to your favorite recipes. Whether eaten cooked or raw, this leafy green vegetable offers a nutritious punch. Organic."
             },
             {
               "id": "v6",
@@ -56,7 +56,7 @@
               "price": "€2.50",
               "quantity": "300g",
               "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/sprouts.jpeg?raw=true",
-              "desc": "Brussels sprouts are nutrient powerhouses, providing a range of vitamins, minerals, antioxidants, and a little bonus plant protein."
+              "desc": "Brussels sprouts are nutrient powerhouses, providing a range of vitamins, minerals, antioxidants, and a little bonus plant protein. Organic."
             },
             {
               "id": "v7",
@@ -65,7 +65,7 @@
               "price": "€3.00",
               "quantity": "400g",
               "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/cauliflower.jpeg?raw=true",
-              "desc": "Cauliflower is an excellent source of vitamins and minerals, containing some of almost every vitamin and mineral that you need, including a high amount of fiber."
+              "desc": "Cauliflower is an excellent source of vitamins and minerals, containing some of almost every vitamin and mineral that you need, including a high amount of fiber. Organic."
             },
             {
               "id": "v8",
@@ -74,7 +74,7 @@
               "price": "€3.00",
               "quantity": "400g",
               "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/courgette.jpeg?raw=true",
-              "desc": "Courgette contains a variety of vitamins, minerals, and beneficial plant compounds. Cooked zucchini is particularly high in vitamin A. It also boasts several antioxidants that may provide various health benefits"
+              "desc": "Courgette contains a variety of vitamins, minerals, and beneficial plant compounds. Cooked zucchini is particularly high in vitamin A. It also boasts several antioxidants that may provide various health benefits. Organic."
             },
             {
               "id": "v9",
@@ -83,7 +83,7 @@
               "price": "€2.50",
               "quantity": "150g",
               "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/garlic.jpg?raw=true",
-              "desc": "Ancient Greek physician Hippocrates, often called the father of Western medicine prescribed garlic to treat a variety of medical conditions — and modern science has confirmed many of these beneficial health effects. "
+              "desc": "Ancient Greek physician Hippocrates, often called the father of Western medicine prescribed garlic to treat a variety of medical conditions — and modern science has confirmed many of these beneficial health effects. Organic."
             },
             {
               "id": "v10",
@@ -92,7 +92,7 @@
               "price": "€2.75",
               "quantity": "300g",
               "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/lettuce.jpeg?raw=true",
-              "desc": "Romaine lettuce contains 82% of the daily value of vitamin A. It also contains small amounts of vitamin C, iron, and calcium. Generally, lettuce is safe for most people to eat. It isn't a common allergen."
+              "desc": "Romaine lettuce contains 82% of the daily value of vitamin A. It also contains small amounts of vitamin C, iron, and calcium. Generally, lettuce is safe for most people to eat. It isn't a common allergen. Organic."
             },
             {
               "id": "v11",
@@ -101,7 +101,7 @@
               "price": "€2.75",
               "quantity": "900g",
               "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/cabbage.jpeg?raw=true",
-              "desc": "Cabbage contains small amounts of other micronutrients, including vitamin A, iron and riboflavin."
+              "desc": "Cabbage contains small amounts of other micronutrients, including vitamin A, iron and riboflavin. Organic."
             },
             {
               "id": "v12",
@@ -110,7 +110,7 @@
               "price": "€3.00",
               "quantity": "400g",
               "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/beans.jpg?raw=true",
-              "desc": "Green beans, string beans, or snap beans are a rich source of vitamins A, C, and K, and of folic acid and fiber."
+              "desc": "Green beans, string beans, or snap beans are a rich source of vitamins A, C, and K, and of folic acid and fiber. Organic."
             }
           ]
         },
@@ -132,7 +132,7 @@
               "price": "€3.50",
               "quantity": "125g",
               "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/blueberries.jpg?raw=true",
-              "desc": "Fresh blueberries are a popular summer treat. They have a sweet flavor, and they are succulent and nutritious."
+              "desc": "Fresh blueberries are a popular summer treat. They have a sweet flavor, and they are succulent and nutritious. Organic."
             },
             {
               "id": "f3",
@@ -141,7 +141,7 @@
               "price": "€3.50",
               "quantity": "125g",
               "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/blackberries.jpg?raw=true",
-              "desc": "Although they contain many nutrients, blackberries, are bursting with phytochemicals (plant nutrients) which may have the potential to reduce the risk of developing diseases including cancers and heart disease."
+              "desc": "Although they contain many nutrients, blackberries, are bursting with phytochemicals (plant nutrients) which may have the potential to reduce the risk of developing diseases including cancers and heart disease. Organic."
             },
             {
               "id": "f4",
@@ -150,7 +150,7 @@
               "price": "€3.50",
               "quantity": "125g",
               "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/strawberries.jpg?raw=true",
-              "desc": "Strawberries are thought to be berries, but this is not botanically true, and they are an accessory fruit. They have an excellent nutrition profile and contain large amounts of vitamin C."
+              "desc": "Strawberries are thought to be berries, but this is not botanically true, and they are an accessory fruit. They have an excellent nutrition profile and contain large amounts of vitamin C. Organic."
             },
             {
               "id": "f5",
@@ -159,7 +159,7 @@
               "price": "€3.50",
               "quantity": "125g",
               "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/blackcurrants.jpeg?raw=true",
-              "desc": "Black currants have a tart and somewhat astringent taste, which is influenced by both their significant ascorbic acid (vitamin C) and polyphenol (such as tannins) content."
+              "desc": "Black currants have a tart and somewhat astringent taste, which is influenced by both their significant ascorbic acid (vitamin C) and polyphenol (such as tannins) content. Organic."
             },
             {
               "id": "f6",
@@ -168,7 +168,7 @@
               "price": "€4.50",
               "quantity": "125g",
               "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/gooseberries.jpg?raw=true",
-              "desc": "Gooseberries are low in calories, fat and cholesterol-free, and a good source of essential nutrients including vitamin C, vitamin A, manganese and dietary fiber. "
+              "desc": "Gooseberries are low in calories, fat and cholesterol-free, and a good source of essential nutrients including vitamin C, vitamin A, manganese and dietary fiber.  Organic."
             },
             {
               "id": "f7",
@@ -177,7 +177,38 @@
               "price": "€3.50",
               "quantity": "125g",
               "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/raspberries.jpg?raw=true",
-              "desc": "Raspberries pack a lot of nutrition and antioxidants into a small space. They contain potassium, omega-3 fatty acids, fibre, and the mineral manganese."
+              "desc": "Raspberries pack a lot of nutrition and antioxidants into a small space. They contain potassium, omega-3 fatty acids, fibre, and the mineral manganese. Organic."
+            }
+          ]
+        },
+        {
+          "ferments": [
+            {
+              "id": "f1",
+              "item": "Saurkraut",
+              "category": "ferments",
+              "price": "€6.00",
+              "quantity": "400g",
+              "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/saurkraut.jpg?raw=true",
+              "desc": "Non-pasteurised organic saurkraut. A traditional sauerkraut made with organic cabbage and organic sea salt. Salty and sour this sauerkraut is a burst of organic probiotic goodness."
+            },
+            {
+              "id": "f2",
+              "item": "Kimchi",
+              "category": "ferments",
+              "price": "€5.00",
+              "quantity": "300g",
+              "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/kimchi.jpeg?raw=true",
+              "desc": "Raw Fermented organic Kimchi, inspired by Korea. Full of probiotics and good bacteria."
+            },
+            {
+              "id": "f3",
+              "item": "Kefir",
+              "category": "ferments",
+              "price": "€6.00",
+              "quantity": "750ml",
+              "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/kefir.jpeg?raw=true",
+              "desc": "Kefir is an organic yoghurt style drink, exceptionally rich in nutrients and probiotics, aiding digestion and providing excellent gut health."
             }
           ]
         }
@@ -245,7 +276,7 @@
           "price": "€2.99",
           "quantity": "250 seeds",
           "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/beetroot.jpeg?raw=true",
-          "desc": "Beetroot has long been a popular choice for its reliable crops of attractive, flavoursome and nutritious roots. Beetroot provides a vibrant splash of colour to any dish, not to mention great flavour, texture and excellent health benefits. Enjoy hot, cold or pickled! "
+          "desc": "Beetroot has long been a popular choice for its reliable crops of attractive, flavoursome and nutritious roots. Beetroot provides a vibrant splash of colour to any dish, not to mention great flavour, texture and excellent health benefits. Enjoy hot, cold or pickled!  Organic."
         },
         {
           "id": "s2",
@@ -254,7 +285,7 @@
           "price": "€2.80",
           "quantity": "50 seeds",
           "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/brussels-sprout-seeds.jpeg?raw=true",
-          "desc": "Groninger is an old variety of Brussel sprout, which has deveoped along with the environment for a very long time. Brussels Sprouts are ready to harvest in Winter, when not much else is, and obviously they go great with Christmas dinner!"
+          "desc": "Groninger is an old variety of Brussel sprout, which has deveoped along with the environment for a very long time. Brussels Sprouts are ready to harvest in Winter, when not much else is, and obviously they go great with Christmas dinner! Organic."
         },
         {
           "id": "s3",
@@ -263,7 +294,7 @@
           "price": "€2.95",
           "quantity": "50 seeds",
           "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/broccoli-seeds.jpeg?raw=true",
-          "desc": "Produces large blue/green heads which are slow to run to seed."
+          "desc": "Produces large blue/green heads which are slow to run to seed. Organic."
         },
         {
           "id": "s4",
@@ -272,7 +303,7 @@
           "price": "€2.95",
           "quantity": "40 seeds",
           "image": "images/broad-bean-seeds.jpeg",
-          "desc": "Ideal for Over Wintering. Good Cold Tolerance!"
+          "desc": "Ideal for Over Wintering. Good Cold Tolerance! Organic."
         },
         {
           "id": "s5",
@@ -281,7 +312,7 @@
           "price": "€2.95",
           "quantity": "40 seeds",
           "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/carrot-seeds.jpeg?raw=true",
-          "desc": "Strong growing and very flavoursome maincrop carrot which stores well. Strong, sweet aromatic taste."
+          "desc": "Strong growing and very flavoursome maincrop carrot which stores well. Strong, sweet aromatic taste. Organic."
         },
         {
           "id": "s6",
@@ -290,7 +321,7 @@
           "price": "€2.95",
           "quantity": "40 seeds",
           "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/cauliflower-seeds.jpeg?raw=true",
-          "desc": "All year around grower"
+          "desc": "All year around grower. Organic."
         },
         {
           "id": "s7",
@@ -300,37 +331,6 @@
           "quantity": "250g",
           "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/broccoli-sprouting-seeds.jpeg?raw=true",
           "desc": "Sprouting organic broccoli seeds at home is a really easy and quick way to grow your own nutritionally packed food right on your window sill."
-        }
-      ]
-    },
-    {
-      "ferments": [
-        {
-          "id": "f1",
-          "item": "Saurkraut",
-          "category": "ferments",
-          "price": "€6.00",
-          "quantity": "400g",
-          "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/saurkraut.jpg?raw=true",
-          "desc": "Non-pasteurised saurkraut. A traditional sauerkraut made with organic cabbage and organic sea salt. Salty and sour this sauerkraut is a burst of organic probiotic goodness."
-        },
-        {
-          "id": "f2",
-          "item": "Kimchi",
-          "category": "ferments",
-          "price": "€5.00",
-          "quantity": "300g",
-          "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/kimchi.jpeg?raw=true",
-          "desc": "Raw Fermented Kimchi, inspired by Korea. Full of probiotics and good bacteria."
-        },
-        {
-          "id": "f3",
-          "item": "Kefir",
-          "category": "ferments",
-          "price": "€6.00",
-          "quantity": "750ml",
-          "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/kefir.jpeg?raw=true",
-          "desc": "Kefir is a yoghurt style drink, exceptionally rich in nutrients and probiotics, aiding digestion and providing excellent gut health."
         }
       ]
     }

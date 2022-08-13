@@ -158,25 +158,25 @@
               "category": "fruit",
               "price": "€3.50",
               "quantity": "125g",
-              "image": "images/blackberries.jpg",
+              "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/blackcurrants.jpeg?raw=true",
               "desc": "Black currants have a tart and somewhat astringent taste, which is influenced by both their significant ascorbic acid (vitamin C) and polyphenol (such as tannins) content."
             },
             {
               "id": "f6",
-              "item": "Organic Gooseberries",
+              "item": "Gooseberries",
               "category": "fruit",
               "price": "€4.50",
               "quantity": "125g",
-              "image": "images/gooseberries.jpg",
+              "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/gooseberries.jpg?raw=true",
               "desc": "Gooseberries are low in calories, fat and cholesterol-free, and a good source of essential nutrients including vitamin C, vitamin A, manganese and dietary fiber. "
             },
             {
               "id": "f7",
-              "item": "Organic Raspberries",
+              "item": "Raspberries",
               "category": "berries",
               "price": "€3.50",
               "quantity": "125g",
-              "image": "images/raspberries.jpg",
+              "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/raspberries.jpg?raw=true",
               "desc": "Raspberries pack a lot of nutrition and antioxidants into a small space. They contain potassium, omega-3 fatty acids, fibre, and the mineral manganese."
             }
           ]
@@ -193,7 +193,7 @@
               "category": "hardware",
               "price": "™15.99",
               "quantity": "N/A",
-              "image": "images/hand-tools-set.jpeg",
+              "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/hand-tools-set.jpeg?raw=true",
               "desc": "3 piece set Contains: Transplanting Trowel, Hand Fork, Hand Trowel, Material: Aluminum Alloy"
             },
             {
@@ -202,7 +202,7 @@
               "category": "hardware",
               "price": "€25.00",
               "quantity": "N/A",
-              "image": "images/long-handled-garden-fork-a.jpeg",
+              "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/long-handled-garden-fork-a.jpeg?raw=true",
               "desc": "This digging fork comes with a black Painted Steel Head, consisting of 4 Tines, solid timber Handle and comfort Plastic D Grip ideal for Light digging around the garden."
             },
             {
@@ -211,7 +211,7 @@
               "category": "hardware",
               "price": "€10.00",
               "quantity": "N/A",
-              "image": "images/trowel.jpeg",
+              "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/trowel.jpeg?raw=true",
               "desc": "Small, lightweight, wooden handled gardening trowel"
             },
             {
@@ -220,7 +220,7 @@
               "category": "hardware",
               "price": "€6.00",
               "quantity": "N/A",
-              "image": "images/gloves.png",
+              "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/gloves.png?raw=true",
               "desc": "A single pair of durable and breatheable gardening gloves in a variety of colours"
             },
             {
@@ -229,7 +229,7 @@
               "category": "hardware",
               "price": "€25.00",
               "quantity": "N/A",
-              "image": "images/shovel.jpeg",
+              "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/shovel.jpeg?raw=true",
               "desc": "Garden shovel."
             }
           ]
@@ -244,7 +244,7 @@
           "category": "Seeds",
           "price": "€2.99",
           "quantity": "250 seeds",
-          "image": "images/beetroot.jpeg",
+          "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/beetroot.jpeg?raw=true",
           "desc": "Beetroot has long been a popular choice for its reliable crops of attractive, flavoursome and nutritious roots. Beetroot provides a vibrant splash of colour to any dish, not to mention great flavour, texture and excellent health benefits. Enjoy hot, cold or pickled! "
         },
         {
@@ -253,7 +253,7 @@
           "category": "Seeds",
           "price": "€2.80",
           "quantity": "50 seeds",
-          "image": "images/brussels-sprout-seeds.jpeg",
+          "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/brussels-sprout-seeds.jpeg?raw=true",
           "desc": "Groninger is an old variety of Brussel sprout, which has deveoped along with the environment for a very long time. Brussels Sprouts are ready to harvest in Winter, when not much else is, and obviously they go great with Christmas dinner!"
         },
         {
@@ -262,7 +262,7 @@
           "category": "Seeds",
           "price": "€2.95",
           "quantity": "50 seeds",
-          "image": "images/broccoli-seeds.jpeg",
+          "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/broccoli-seeds.jpeg?raw=true",
           "desc": "Produces large blue/green heads which are slow to run to seed."
         },
         {
@@ -280,7 +280,7 @@
           "category": "Seeds",
           "price": "€2.95",
           "quantity": "40 seeds",
-          "image": "images/carrot-seeds.jpeg",
+          "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/carrot-seeds.jpeg?raw=true",
           "desc": "Strong growing and very flavoursome maincrop carrot which stores well. Strong, sweet aromatic taste."
         },
         {
@@ -289,7 +289,7 @@
           "category": "Seeds",
           "price": "€2.95",
           "quantity": "40 seeds",
-          "image": "images/cauliflower-seeds.jpeg",
+          "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/cauliflower-seeds.jpeg?raw=true",
           "desc": "All year around grower"
         },
         {
@@ -298,7 +298,7 @@
           "category": "Seeds",
           "price": "€8.95",
           "quantity": "250g",
-          "image": "images/broccoli-sprouting-seeds.jpeg",
+          "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/broccoli-sprouting-seeds.jpeg?raw=true",
           "desc": "Sprouting organic broccoli seeds at home is a really easy and quick way to grow your own nutritionally packed food right on your window sill."
         }
       ]
@@ -311,16 +311,16 @@
           "category": "ferments",
           "price": "€6.00",
           "quantity": "400g",
-          "image": "images/saurkraut.jpg",
+          "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/saurkraut.jpg?raw=true",
           "desc": "Non-pasteurised saurkraut. A traditional sauerkraut made with organic cabbage and organic sea salt. Salty and sour this sauerkraut is a burst of organic probiotic goodness."
         },
         {
           "id": "f2",
           "item": "Kimchi",
           "category": "ferments",
-          "price": "€5.00kimchi",
+          "price": "€5.00",
           "quantity": "300g",
-          "image": "images/kimchi.jpeg",
+          "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/kimchi.jpeg?raw=true",
           "desc": "Raw Fermented Kimchi, inspired by Korea. Full of probiotics and good bacteria."
         },
         {
@@ -329,7 +329,7 @@
           "category": "ferments",
           "price": "€6.00",
           "quantity": "750ml",
-          "image": "images/kefir.jpeg",
+          "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/kefir.jpeg?raw=true",
           "desc": "Kefir is a yoghurt style drink, exceptionally rich in nutrients and probiotics, aiding digestion and providing excellent gut health."
         }
       ]

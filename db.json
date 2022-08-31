@@ -302,7 +302,7 @@
           "category": "Seeds",
           "price": "€2.95",
           "quantity": "40 seeds",
-          "image": "images/broad-bean-seeds.jpeg",
+          "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/broad-bean-seeds.jpeg?raw=true",
           "desc": "Ideal for Over Wintering. Good Cold Tolerance! Organic."
         },
         {

@@ -191,7 +191,7 @@
       "desc": "Raspberries pack a lot of nutrition and antioxidants into a small space. They contain potassium, omega-3 fatty acids, fibre, and the mineral manganese. Organic."
     },
     {
-      "id": "f1",
+      "id": "fer1",
       "item": "Saurkraut",
       "section": "food",
       "category": "ferments",
@@ -201,7 +201,7 @@
       "desc": "Non-pasteurised organic saurkraut. A traditional sauerkraut made with organic cabbage and organic sea salt. Salty and sour this sauerkraut is a burst of organic probiotic goodness."
     },
     {
-      "id": "f2",
+      "id": "fer2",
       "item": "Kimchi",
       "section": "food",
       "category": "ferments",
@@ -211,7 +211,7 @@
       "desc": "Raw Fermented organic Kimchi, inspired by Korea. Full of probiotics and good bacteria."
     },
     {
-      "id": "f3",
+      "id": "fer3",
       "item": "Kefir",
       "section": "food",
       "category": "ferments",

@@ -92,7 +92,7 @@
     },
     {
       "id": "v10",
-      "item": "Lettuce (Romaine)",
+      "item": "Lettuce",
       "section": "food",
       "category": "vegetables",
       "price": "2.75",
@@ -226,7 +226,7 @@
       "section": "hardware",
       "category": "tools",
       "price": "15.99",
-      "quantity": "N/A",
+      "quantity": "",
       "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/hand-tools-set.jpeg?raw=true",
       "desc": "3 piece set Contains: Transplanting Trowel, Hand Fork, Hand Trowel, Material: Aluminum Alloy"
     },
@@ -236,7 +236,7 @@
       "section": "hardware",
       "category": "tools",
       "price": "25.00",
-      "quantity": "N/A",
+      "quantity": "",
       "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/long-handled-garden-fork-a.jpeg?raw=true",
       "desc": "This digging fork comes with a black Painted Steel Head, consisting of 4 Tines, solid timber Handle and comfort Plastic D Grip ideal for Light digging around the garden."
     },
@@ -246,7 +246,7 @@
       "section": "hardware",
       "category": "tools",
       "price": "10.00",
-      "quantity": "N/A",
+      "quantity": "",
       "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/trowel.jpeg?raw=true",
       "desc": "Small, lightweight, wooden handled gardening trowel"
     },
@@ -256,7 +256,7 @@
       "section": "hardware",
       "category": "protection",
       "price": "6.00",
-      "quantity": "N/A",
+      "quantity": "",
       "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/gloves.png?raw=true",
       "desc": "A single pair of durable and breatheable gardening gloves in a variety of colours"
     },
@@ -266,7 +266,7 @@
       "section": "hardware",
       "category": "tools",
       "price": "25.00",
-      "quantity": "N/A",
+      "quantity": "",
       "image": "https://github.com/JimJ6/farm-shop-inventory/blob/main/images/shovel.jpeg?raw=true",
       "desc": "Garden shovel."
     },
